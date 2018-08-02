@@ -1,0 +1,3 @@
+/Users/tobacco/Documents/school/usc/360/project2/project21Student/src/build/CMakeFiles/rebuild_cache.dir
+/Users/tobacco/Documents/school/usc/360/project2/project21Student/src/build/CMakeFiles/edit_cache.dir
+/Users/tobacco/Documents/school/usc/360/project2/project21Student/src/build/CMakeFiles/NaiveBayes360.dir
